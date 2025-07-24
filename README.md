@@ -3,7 +3,7 @@
 
 - 🎓 Final year Information Technology student at **Banasthali Vidyapith**  
 - 💻 Passionate about **Data Structures & Algorithms** and **Full-Stack Development**  
-- 👩‍💻 Currently learning **React.js, Java, and MySQL**  
+- 👩‍💻 Currently learning **Spring Boot, React.js, Java, and MySQL**  
 - 🌱 Exploring new technologies and building cool projects  
 - 💬 Ask me about **C++, Java, DSA, React.js, and MySQL**  
 - 📫 Reach me at **shivanisharma2165@gmail.com**
@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -30,20 +31,23 @@
 
 ## 🛠️ Languages Used in My GitHub Projects
 
-- **JavaScript** (MERN Chat App, Amazon Clone, Byte Defender)  
-- **HTML & CSS** (Amazon Clone)  
-- **Java** (Backend logic and algorithms)  
-- **C++** (Algorithm implementations, Path Visualizer)  
+- **Java + Spring Boot + PostgreSQLc** (Backend logic and algorithms) 
+- **JavaScript** (MERN Chat App, Amazon Clone, Byte Defender,AI Article Summariser)  
 - **React.js** (Byte Defender, MERN Chat App)  
+- **HTML & CSS** (Amazon Clone)   
+- **C++** (Algorithm implementations, Path Visualizer)  
 - **MongoDB & MySQL** (Database handling in projects)  
 - **Node.js + Express** (MERN Chat App backend)
+- **Chrome Extension API** (AI Article Summariser)
 
 ---
 
 ## 📂 Projects
 
-- 🔹 **MERN Chat App** – A real-time chat application built with React, Node.js, Express, and MongoDB using Socket.IO  
-- 🔹 **Amazon Clone** – A frontend e-commerce site built using HTML, CSS, and JavaScript  
+- 🔹 **Quiz App** – A backend-driven quiz platform built with Java 17, Spring Boot, and PostgreSQL for dynamic quiz creation and scoring
+- 🔹 **MERN Chat App** – A real-time chat application built with React, Node.js, Express, and MongoDB using Socket.IO
+- 🔹 **AI Article Summariser** – A Chrome Extension that summarizes articles using background scripts and a custom UI (HTML, CSS, JavaScript)
+- 🔹 **Amazon Clone** – A frontend e-commerce site built using HTML, CSS, and JavaScript 
 - 🔹 **Path Visualizer** – Visual representation of algorithms like DFS, BFS, Dijkstra  
 - 🔹 **Byte Defender** – A cybersecurity awareness tool developed using React  
 
@@ -54,8 +58,9 @@
 ## 📊 GitHub Stats
 
 ![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivani-sha&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-sha&layout=compact&theme=radical)](https://github.com/shivani-sha)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-sha&layout=compact&langs_count=10&theme=radical&hide=cmake,swift,c,dart,kotlin,objective-c)](https://github.com/shivani-sha)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivani-sha&theme=radical)
+
 
 ---
 
