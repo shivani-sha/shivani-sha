@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shivani Sharma</h1>
-<h3 align="center">A passionate Software Engineer and Tech Enthusiast from India</h3>
+<h3 align="center">Full Stack Engineer | AI Intern | Software Developer from India</h3>
 
-- 🎓 Final year Information Technology student at **Banasthali Vidyapith**  
-- 💻 Passionate about **Data Structures & Algorithms** and **Full-Stack Development**  
-- 👩‍💻 Currently learning **Spring Boot, React.js, Java, and MySQL**  
-- 🌱 Exploring new technologies and building cool projects  
-- 💬 Ask me about **C++, Java, DSA, React.js, and MySQL**  
-- 📫 Reach me at **shivanisharma2165@gmail.com**
+- Full Stack Engineer – AI Intern at **Cognitive Videos**
+- B.Tech in Computer Science & Engineering (2025), **Banasthali Vidyapith**
+- 1+ year of hands-on experience in **Full-Stack Development**
+- Skilled in **Java, JavaScript, C++, SQL**
+- Tech stack: **React.js, Vue.js, Node.js, Spring Boot, Django**
+- Databases: **PostgreSQL, MongoDB, MySQL**
+- Built real-world projects: **MERN Chat App, Spring Boot Quiz App, AI Chrome Extension**
+- Exploring AI-powered applications and scalable web systems
+- Ask me about **Full-stack development, DSA, React, Java, or backend systems**
+- Reach me at **shivanisharma2165@gmail.com**
 
 ---
 
